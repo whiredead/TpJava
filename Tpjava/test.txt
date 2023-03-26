@@ -1,0 +1,36 @@
+you learned that: 
+Social coding is done communally with public repositories and all team members are encouraged to contribute. 
+Pair programming results in higher quality code because defects are found earlier, costs are lowered, and there is a broader understanding of the codebase.
+
+git pull request steps:
+
+1)Clone the repository locally using the git clone command.
+
+2)Create a new branch using the git branch command and switch to the new branch using the git checkout command.
+
+3)Make the desired changes to the codebase.
+
+4)Commit the changes using the git commit command with a meaningful commit message.
+
+5)Push the changes to your forked repository on GitHub using the git push command.
+
+6)Navigate to your forked repository on GitHub and click the "New pull request" button.
+
+7)Select the branch you want to merge into the main branch, and review the changes that will be made in the pull request.
+
+8)Write a clear and concise description of the changes you are proposing.
+
+9)Click the "Create pull request" button to submit your pull request.
+
+Once the pull request is created, the repository owner and other contributors 
+ can review the changes, provide feedback, and discuss any issues or questions that arise. The pull request can then be merged into the main branch of the repository once all feedback has been addressed and the changes have been approved.
+
+small batches means delivering something useful quickly.
+Using single piece flow leads to faster feedback loops
+
+MVP(minimum viable product): useful product but not completed skate=>bicycle=>car
+
+Test driven development(TDD) for testing the code Red Green Refactor
+ It allows you to code faster because you are more confident. 
+You don't have to worry if a change you just made broke something. 
+When you refactor code, you can move much faster because you know the test cases will catch any changes in behavior.
